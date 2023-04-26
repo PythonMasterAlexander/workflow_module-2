@@ -19,7 +19,11 @@
   "author": "Alexander Hardeland, https://hardeland.me/",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PythonMasterAlexander/workflow_module-2/issues"
+  "url": "https://github.com/PythonMasterAlexander/workflow_module-2/issues"
   },
-  "homepage": "https://github.com/PythonMasterAlexander/workflow_module-2#readme"
+  "homepage": "https://github.com/PythonMasterAlexander/workflow_module-2#readme",
+  {
+    "description": "example",
+    "type": "module"
+  }
 }
