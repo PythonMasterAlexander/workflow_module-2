@@ -1,7 +1,8 @@
 {
   "name": "joker",
-  "version": "0.0.1",
+  "version": "0.0.1.",
   "description": "Workflow module-2. Application that tells jokes, CSS only e-commerce application, Personal collection of useful functions",
+  "type": "module",
   "main": "src/scripts/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,14 +17,10 @@
     "javascript",
     "typescript"
   ],
-  "author": "Alexander Hardeland, https://hardeland.me/",
+  "author": "Alexander Hardeland, https://hardeland.me",
   "license": "ISC",
   "bugs": {
-  "url": "https://github.com/PythonMasterAlexander/workflow_module-2/issues"
+    "url": "https://github.com/PythonMasterAlexander/workflow_module-2/issues"
   },
-  "homepage": "https://github.com/PythonMasterAlexander/workflow_module-2#readme",
-  {
-    "description": "example",
-    "type": "module"
-  }
+  "homepage": "https://github.com/PythonMasterAlexander/workflow_module-2#readme"
 }
