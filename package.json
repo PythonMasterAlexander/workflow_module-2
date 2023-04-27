@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/PythonMasterAlexander/workflow_module-2/issues"
   },
-  "homepage": "https://github.com/PythonMasterAlexander/workflow_module-2#readme"
+  "homepage": "https://github.com/PythonMasterAlexander/workflow_module-2#readme",
+  "dependencies": {
+    "one-liner-joke": "^1.2.2"
+  }
 }
