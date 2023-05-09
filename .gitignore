@@ -1,5 +1,6 @@
 # Mac OS System file
 .DS_Store
-
 # Ignore node_modules directory
 node_modules/
+# Ignore .eslintcache file
+.eslintcache
