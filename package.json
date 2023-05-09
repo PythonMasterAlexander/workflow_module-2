@@ -5,7 +5,8 @@
   "type": "module",
   "main": "src/scripts/index.js",
   "scripts": {
-    "test": "node src/scripts/joker.test.js"
+    "test": "node src/scripts/joker.test.js",
+    "format": "prettier -w src/**/*.js"
   },
   "repository": {
     "type": "git",
