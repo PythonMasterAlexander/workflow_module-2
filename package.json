@@ -1,6 +1,6 @@
 {
   "name": "joker",
-  "version": "0.5.3",
+  "version": "0.5.4",
   "description": "Workflow module-2. Application that tells jokes, CSS only e-commerce application, Personal collection of useful functions",
   "type": "module",
   "main": "src/scripts/index.js",
