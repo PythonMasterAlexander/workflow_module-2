@@ -27,5 +27,8 @@
   "dependencies": {
     "give-me-a-joke": "^0.4.0",
     "one-liner-joke": "^1.2.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.40.0"
   }
 }
